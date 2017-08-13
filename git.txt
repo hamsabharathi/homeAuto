@@ -1,0 +1,12 @@
+git clone https://github.com/<username>/<repo>.git
+git add . //add everything
+git diff // for finding difference
+git commit -m "message"
+git status
+git push origin master
+git checkout -b <branch_name>  //creates a branch
+git checkout <branch_name>
+git merge <branch> //current merge
+git log //history of commits
+git pull origin <branch_name>
+git push origin <master>
